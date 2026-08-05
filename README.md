@@ -59,7 +59,7 @@ YouTube-Analytics-Dashboard/
 
 ## 📸 Dashboard Preview
 
-
+dashboard.png
 
 ---
 

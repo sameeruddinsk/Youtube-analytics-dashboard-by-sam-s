@@ -58,8 +58,10 @@ YouTube-Analytics-Dashboard/
 ---
 
 ## 📸 Dashboard Preview
+<p align="center">
+  <img src="./screenshot/dashboard.png" width="100%" alt="Banner"/>
+</p>
 
-screenshot/dashboard.png
 
 ---
 

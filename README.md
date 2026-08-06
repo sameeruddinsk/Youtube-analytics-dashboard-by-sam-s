@@ -43,20 +43,6 @@ The dashboard automatically analyzes YouTube channel performance and provides vi
 
 ---
 
-## 📁 Project Structure
-
-```
-YouTube-Analytics-Dashboard/
-│
-├── Data.xlsm
-├── README.md
-├── VBA/
-├── Screenshots/
-└── Dashboard Preview
-```
-
----
-
 ## 📸 Dashboard Preview
 <p align="center">
   <img src="./screenshot/dashboard.png" width="100%" alt="Banner"/>
